@@ -1,0 +1,5 @@
+re
+spacy
+json
+fuzzywuzzy
+requests
