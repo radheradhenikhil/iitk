@@ -5,8 +5,6 @@
 ## 🌟 **Overview**
 In today's cybersecurity landscape, the ability to extract actionable intelligence from unstructured threat reports is critical. This project leverages **Natural Language Processing (NLP)** to automatically uncover Indicators of Compromise (IoCs), Tactics, Techniques, and Procedures (TTPs), malware details, and targeted entities from natural language threat reports. 
 
-The solution is aligned with the **MITRE ATT&CK Framework** and aims to automate and simplify threat intelligence extraction for cybersecurity professionals.
-
 ---
 
 ## ⚙️ **Features**
@@ -123,8 +121,7 @@ Targeted entities include companies in the aerospace and defense sectors. The La
 ├── README.md
 ├── requirements.txt
 ├── threat_intelligence_extractor.py
-└── sample_reports/
-    └── report1.txt
+└── report.pdf
 ```
 
 ---
@@ -134,6 +131,10 @@ Targeted entities include companies in the aerospace and defense sectors. The La
   - **Email**: nikhilagarwalnda@gmail.com
   - **GitHub**: [radheradhenikhil](https://github.com/radheradhenikhil)
 - **Contributors**: Team members assisted in research and problem statement selection.
+  - Anjali Singh
+  - Anshika Maheswari
+  - Prerna Singh Tomar
+
 
 ---
 
